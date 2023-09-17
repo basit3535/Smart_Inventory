@@ -1,1 +1,2 @@
-# Smart_Inventory
+# DeskbookERP
+ Laravel subscription based ERP
